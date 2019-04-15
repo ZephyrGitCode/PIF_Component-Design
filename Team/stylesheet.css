@@ -4,6 +4,48 @@ body{
   color: #333;
   font-family:  Arial,Helvetica,sans-serif;
 }
+
+h1 {
+    font-weight: 900;
+    font-size: 3.5rem;
+    color: #211545;
+    margin: 3rem 0 1rem;
+
+}
+
+h2 {
+    font-weight: 100;
+    font-size:2.5rem;
+    color: #211545;
+    margin: 3rem 0 1rem;
+}
+
+h3 {
+    font-weight: 100;
+    font-size: 1.25rem;
+    color: #211545;
+    margin: 3rem 0 1rem;
+}
+
+h4 {
+    font-weight: 100;
+    font-size: 1rem;
+    color: #211545;
+    margin: 3rem 0 1rem;
+}
+
+h5 {
+    font-weight: 100;
+    color: #211545;
+    margin: 3rem 0 1rem;
+}
+
+h6 {
+    font-weight: 100;
+    color: #211545;
+    margin: 3rem 0 1rem;
+}
+
 .mainbody{
   height: 100%;
   max-width: 955px;
