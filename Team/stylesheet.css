@@ -12,7 +12,7 @@ h1 {
     font-weight: 900;
     font-size: 3.5rem;
     color: #211545;
-		margin: auto;
+	margin: auto;
 }
 
 h2 {
@@ -131,7 +131,6 @@ a:visited, .visited_link {
 	float: left;
 }
 
-
 .colour {
 	width: 50px;
 	height: 50px;
@@ -143,15 +142,7 @@ a:visited, .visited_link {
 	background: #068c9e;
 }
 
-.colour-- {
-	background: #068c9e;
-}
-
 .colour--secondary {
-	background: #056571;
-}
-
-.colour-- {
 	background: #056571;
 }
 
@@ -159,22 +150,10 @@ a:visited, .visited_link {
 	background: #211545;
 }
 
-.colour-- {
-	background: #211545;
-}
-
 .colour--light{
 	background: #83d2d4;
 }
 
-.colour-- {
-	background: #83d2d4;
-}
-
 .colour--highlight{
-	background: #479ccf;
-}
-
-.colour-- {
 	background: #479ccf;
 }
