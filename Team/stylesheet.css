@@ -112,3 +112,17 @@ nav.navleft{
   width: 500px;
   margin: auto;
 }
+.colour {
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+	border: 1px solid black;
+}
+
+.colour--primary {
+	background: #211545;
+}
+
+.colour-- {
+	background: #211545;
+}
