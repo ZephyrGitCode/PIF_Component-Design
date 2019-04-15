@@ -130,6 +130,15 @@ nav.navleft{
 	display: block;
 }
 
+.text{
+	width: 650px;
+	margin-top: 20px;
+	margin-right: 0px;
+	margin-bottom: 10px;
+	margin-left: 20px;
+	float: left;
+}
+
 .content {
 	width: 650px;
 	margin-top: 20px;
@@ -162,23 +171,12 @@ a:visited, .visited_link {
 	background: #068c9e;
 }
 
-.colour-- {
-	background: #068c9e;
-}
-
 .colour--secondary {
 	background: #056571;
 }
 
-.colour-- {
-	background: #056571;
-}
 
 .colour--dark {
-	background: #211545;
-}
-
-.colour-- {
 	background: #211545;
 }
 
@@ -186,14 +184,6 @@ a:visited, .visited_link {
 	background: #83d2d4;
 }
 
-.colour-- {
-	background: #83d2d4;
-}
-
 .colour--highlight{
-	background: #479ccf;
-}
-
-.colour-- {
 	background: #479ccf;
 }
