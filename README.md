@@ -5,6 +5,9 @@ Team styleguide located in "Team"
 Individual cards are locted in named folders.
 
 Links to github pages are as follows:
+
+Team: https://zephyrgitcode.github.io/PIF_Component-Design/Team/index.html
+
 Lucas: https://zephyrgitcode.github.io/PIF_Component-Design/Lucas_Index/index.html
 
 Zephyr: https://zephyrgitcode.github.io/PIF_Component-Design/Zephyr/index.html
