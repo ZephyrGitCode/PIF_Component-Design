@@ -121,10 +121,10 @@ nav.navleft{
 }
 
 a{
-  color: #211545;
+  color: #800000;
 }
 a:visited, .visited_link {
-	color: maroon;
+	color: 	#DC143C;
 }
 
 .coloursection{
