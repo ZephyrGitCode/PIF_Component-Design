@@ -120,9 +120,42 @@ nav.navleft{
 }
 
 .colour--primary {
+	background: #068c9e;
+}
+
+.colour-- {
+	background: #068c9e;
+}
+
+.colour--secondary {
+	background: #056571;
+}
+
+.colour-- {
+	background: #056571;
+}
+
+.colour--dark {
 	background: #211545;
 }
 
 .colour-- {
 	background: #211545;
+}
+
+.colour--light{
+	background: #83d2d4;
+}
+
+.colour-- {
+	background: #83d2d4;
+}
+
+
+.colour--highlight{
+	background: #479ccf;
+}
+
+.colour-- {
+	background: #479ccf;
 }
